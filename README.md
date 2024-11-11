@@ -45,7 +45,7 @@ Las dependencias del proyecto han sido gestionadas utilizando **Maven**.
 - El ID de usuario es un string ya que podramos utilizar por ejemplo su DNI como identificador único.
 - No se ha utilizado `System.out.println` en ninguna parte del código, salvo en el método principal (`main`), donde se ha utilizado para acceder a la web y entrar en el endpoint `/swagger/`.
 - El código ha sido subido al repositorio de GitHub (con Git) para su revisión.
-- El commit en local ha sido realizado a la 13.05 y el push a la 13.30
+- El commit en local ha sido realizado a la 13.05 y el push a la 13.30 LO DIGO MAS QUE NADA POR QUE NO SE POR QUE APARECE COMMITED 24MIN AGO 
 
 
 
